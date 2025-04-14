@@ -38,9 +38,10 @@ Ensure the following are installed:
 ### 1\. Clone the Repository
 
 ```bash
-`git clone https://github.com/yourusername/StegoX.git
-cd StegoX`
+`git clone [https://github.com/yourusername/StegoX.git](https://github.com/Aju34807/StegoX-SecureImageSteganography.git)
 ```
+cd StegoX`
+
 
 ### 2\. Install Dependencies
 
